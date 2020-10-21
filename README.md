@@ -1,2 +1,2 @@
 # ScribVecViz
-Parses and renders Scribblenauts .vec files.
+Orginaly made by GMMan on XeNTaX
